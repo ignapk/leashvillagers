@@ -1,0 +1,16 @@
+[
+{
+  "modid": "leashvillagers",
+  "name": "Leash Villagers",
+  "description": "Adds ability to lead villagers on a leash.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ignapk/leashvillagers",
+  "updateUrl": "",
+  "authorList": ["Horus125"],
+  "credits": "The Forge and FML guys, for making the best minecraft mod loader",
+  "logoFile": "logo.png",
+  "screenshots": ["screenshot.png"],
+  "dependencies": []
+}
+]
